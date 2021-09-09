@@ -1,11 +1,54 @@
-p {
-    text-align: center;
-}
-
 body {
     background-color:rgb(228, 173, 200);
 }
 
+
+#CuideSe {
+    width: 100%;
+}
+
+.principal {
+    background-color: rgb(228, 173, 200);
+    padding: 30px;
+}
+
+.TituloPrincipal {
+    padding-left: 20px;
+}
+
+.tituloCentralizado {
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
 em strong {
-    color:crimson;
+    color:rgb(82, 82, 82);
+}
+
+.itens {
+    font-style: italic;
+}
+
+.Beneficios {
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.img_beneficios {
+    width: 50%;
 }
