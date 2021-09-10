@@ -1,45 +1,62 @@
 body {
-    background-color:rgb(228, 173, 200);
+    background-color:rgb(0, 0, 0);
 }
 
 
 #CuideSe {
-    width: 100%;
+    width: 90%;
+    height: 700px;
+    margin: 60px;
 }
 
 .principal {
-    background-color: rgb(228, 173, 200);
+    background-color: rgb(0, 0, 0);
     padding: 30px;
 }
 
 .TituloPrincipal {
     padding-left: 20px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-weight:800;
+    font-size: 50px;
+    color: rgb(221, 159, 205);
 }
 
 .tituloCentralizado {
     text-align: center;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-weight: 800;
+    font-size: 40px;
+    color: rgb(221, 159, 205);
 
 }
 
 p {
     text-align: center;
+    font-family: Bradley Hand, cursive;
+    color: rgb(221, 159, 205);
 }
 
 #missao {
     font-size: 20px;
+    font-family: Bradley Hand, cursive;
+    color: rgb(221, 159, 205);
 }
 
 em strong {
-    color:rgb(82, 82, 82);
+    color:rgb(253, 6, 212);
 }
 
 .itens {
     font-style: italic;
+    font-family: Bradley Hand, cursive;
+    color: rgb(221, 159, 205);
 }
 
 .Beneficios {
-    background-color: aliceblue;
-    padding: 20px;
+    background-color: rgb(34, 33, 34);
+    padding: 30px;
+    font-weight: 20px;
 }
 
 ul {
